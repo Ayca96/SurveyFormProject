@@ -25,6 +25,7 @@ Giff will added.
 
 ## Expected Outcome
 
+![Alternatif Metin](./images/Screenshot%202024-04-09%20143953.png)
 
 ### At the end of the project, following topics are to be covered;
 
