@@ -25,11 +25,6 @@ Giff will added.
 
 ## Expected Outcome
 
-![Project Snapshot](Project_001_.png)
-
-## Objective
-
-Build a Survey Form that is functionally similar to this: [Survey Form](https://mccarthy-silva.github.io/Survey-Form/)
 
 ### At the end of the project, following topics are to be covered;
 
